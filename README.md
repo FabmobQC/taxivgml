@@ -41,3 +41,17 @@ La Fabrique des mobilités Québec
 
 We created a sample map by importing the data using KML format. The icons are not correcté.
 https://umap.openstreetmap.fr/en/map/postes-dattente-ville-de-montreal_738554#14/45.5238/-73.5810
+
+## Taxi tag
+https://wiki.openstreetmap.org/wiki/Tag:amenity=taxi?uselang=en
+
+## Montreal Open Data
+
+Taxi waiting stations are also available in CSV, GeoJSON and SHP formats
+
+https://donnees.montreal.ca/bureau-du-taxi-de-montreal/postes-attente-taxi
+
+
+## Modified fiels
+
+We kept fiels MTM8_X and MTM8_Y as reference to the NAD83(CSRS98) / MTM zone 8  https://epsg.io/2145
